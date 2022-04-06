@@ -1,0 +1,11 @@
+/* elements don't need a "."*/
+body {
+    color: #f7f7f7;
+}
+
+/*classes need a "." */
+.jumbotron {
+    background-image: url("./images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
