@@ -2,6 +2,8 @@
 
 Used javascript to build and interactive searchable database that allows the public to learn about UFO sightings. A user can create a query combination of date, city, state, country, and / or UFO shape and return UFO sightings that meet those parameters. This database my allow us to finally answer the question, are we alone?
 
+The interactive website is deployed [here](https://david-garza.github.io/UFOs/).
+
 # Results
 
 When the website is first visited, it will display all the table data and the filters will have greyed out place holders showing example entries.
